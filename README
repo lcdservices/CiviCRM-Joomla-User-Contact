@@ -1,0 +1,1 @@
+Joomla plugin to create a CiviCRM contact when a Joomla user account is created. The plugin does a lookup to search for an existing contact record before creating a new one.
