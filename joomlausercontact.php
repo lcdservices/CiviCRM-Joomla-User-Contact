@@ -1,7 +1,6 @@
 <?php
 
 defined( '_JEXEC' ) or die( 'Restricted access' );
- 
 
 jimport('joomla.plugin.plugin');
 
@@ -62,4 +61,3 @@ class plgUserJoomlaUserContact extends JPlugin
     }
 
 }
-?>
