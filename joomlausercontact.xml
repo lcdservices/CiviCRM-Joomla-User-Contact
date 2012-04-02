@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <install version="1.5" type="plugin" group="user">
   <name>CiviCRM - Joomla User Contact</name>
-  <author>Marek Handze</author>
-  <creationDate>2012-01-17</creationDate>
+  <author>Lighthouse Consulting & Design</author>
+  <creationDate>December, 2012</creationDate>
   <copyright>© 2012. All rights reserved.</copyright>
   <license>GNU/GPL</license>
   <authorEmail>development@lcdservices.biz</authorEmail>
   <authoreUrl>http://www.lcdservices.biz</authoreUrl>
   <version>1.0</version>
-    <description>Plugin to auto-create related CiviCRM contact when a new user via Joomla or Community Builder admin panel is created.</description>
+    <description>Plugin to auto-create related CiviCRM contact when a new Joomla user is created.</description>
     <files>
         <filename plugin="joomlausercontact">joomlausercontact.php</filename>
     </files>
